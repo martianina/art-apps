@@ -1,0 +1,33 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "- [walk](https://hy-chou.github.io/walk.html) - [wander](https://hy-chou.github.io/wander.html) - [starry](https://hy-chou.github.io/starry.html) - [strand](https://hy-chou.github.io/strand.html)",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hy-chou",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy-chou/hy-chou.github.io.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hy-chou/hy-chou.github.io/issues"
+  },
+  "homepage": "https://github.com/hy-chou/hy-chou.github.io#readme"
+}

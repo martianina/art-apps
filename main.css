@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+h1 {
+  margin: 10vmin 10vmin 5vmin;
+  font-size: 10vmin;
+}
+
+ul {
+  margin: 0 16vmin;
+}
+
+li {
+  font-size: 6vmin;
+}

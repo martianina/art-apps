@@ -1,0 +1,14 @@
+h1,
+ul {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+canvas {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+}

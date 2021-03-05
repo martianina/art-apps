@@ -1,2 +1,2 @@
 # canvas
-some drawings on HTML &lt;canvas> in JavaScript
+some drawings of color bricks, using JavaScript on HTML <canvas>

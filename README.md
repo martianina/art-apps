@@ -1,7 +1,5 @@
 # [canvas](https://hy-chou.github.io/canvas/)
 
-### a collection of [hy-chou](https://github.com/hy-chou)'s visual artworks, currently featuring [wonder](https://hy-chou.github.io/canvas/html/wonder.html).
-
 ## [wonder](https://hy-chou.github.io/canvas/html/wonder.html)
 
 As you enter the page, a canvas will start to color itself in a certain order.
